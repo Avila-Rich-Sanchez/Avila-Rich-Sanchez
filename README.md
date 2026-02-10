@@ -1,16 +1,31 @@
-## Hi there 👋
+## 👋 Hi, I'm Ricardo Avila
 
-<!--
-**Avila-Rich-Sanchez/Avila-Rich-Sanchez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Developer specializing in Python, HTML & CSS**
 
-Here are some ideas to get you started:
+I'm passionate about building innovative solutions and constantly learning new technologies. My interests span across Artificial Intelligence, data analysis and Backend development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies
+**Core Skills (Comfortable):**
+- Python programming fundamentals
+- Semantic HTML markup
+- CSS styling and layout (Flexbox/Grid)
+
+**Currently Practicing:**
+- Basic JavaScript concepts
+- Flask framework essentials
+- React component basics
+- Version control with Git
+
+**Tools I Use:**
+- VS Code
+- Command Line basics
+- Browser DevTools
+
+### 🔗 Connect with Me
+- **Email:** avilaricardo0512@gmail.com
+
+### 📂 Featured Projects
+- **Avila-StreetBags (link)** - Online Store with React, Flask, and SQLAlchemy
+
+---
+*"Code is like humor. When you have to explain it, it's bad." - Cory House*
