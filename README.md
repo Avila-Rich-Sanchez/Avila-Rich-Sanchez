@@ -25,7 +25,7 @@ I'm passionate about building innovative solutions and constantly learning new t
 - **Email:** avilaricardo0512@gmail.com
 
 ### 📂 Featured Projects
-- **Avila-StreetBags (link)** - Online Store with React, Flask, and SQLAlchemy
+- **Avila-StreetBags https://github.com/Avila-Rich-Sanchez/Avila-StreetBags** - Online Store with React, Flask, and SQLAlchemy
 
 ---
 *"Code is like humor. When you have to explain it, it's bad." - Cory House*
