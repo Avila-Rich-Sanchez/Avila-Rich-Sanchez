@@ -27,5 +27,3 @@ I'm passionate about building innovative solutions and constantly learning new t
 ### 📂 Featured Projects
 - **Avila-StreetBags https://github.com/Avila-Rich-Sanchez/Avila-StreetBags** - Online Store with React, Flask, and SQLAlchemy
 
----
-*"Code is like humor. When you have to explain it, it's bad." - Cory House*
