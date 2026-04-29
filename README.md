@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Ricardo Avila
 
-🚀 **Developer specializing in Python, HTML, CSS y JavaScript**
+🚀 **Developer specializing in Backend with Python and Flask**
 
 I'm passionate about building innovative solutions and constantly learning new technologies. My interests span across Artificial Intelligence, data analysis and Backend development.
 
